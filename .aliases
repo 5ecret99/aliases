@@ -1,0 +1,8 @@
+alias ll='ls -la'
+alias gs='git status'
+alias c='clear'
+alias vim='nvim'
+alias grep='grep --color=auto'
+alias cdr='cd ~/repos/'
+alias cdd='cd ~/Downloads/'
+alias gitvimdiff='git difftool --tool=nvimdiff --no-prompt'
